@@ -1,0 +1,11 @@
+﻿Changelog
+=========
+v1.0.0  — initial public release
+ - main.py: stable MicroPython script
+ - README.md: full instructions + CallMeBot setup
+ - .gitignore, LICENSE.txt added
+ - assets/wiring-diagram.png referenced (upload separately)
+
+Notes:
+ - Tested on ESP32/ESP8266 (NodeMCU) with MicroPython firmware.
+ - Students should obtain own CallMeBot API key per phone number before testing.
