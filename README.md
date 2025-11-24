@@ -1,7 +1,7 @@
 # 🔔 IR-Sensor → WhatsApp Alert (CallMeBot)  
 **Tested OK — Project at Vidyasagar Academy**  
 ![Vidyasagar Academy banner](banner.png)
-
+![Platform: Raspberry Pi Pico W](https://img.shields.io/badge/Platform-RPi%20Pico%20W-brightgreen.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.txt) [![Platform: ESP32/ESP8266](https://img.shields.io/badge/Platform-ESP32%2FESP8266-green.svg)](#) [![Language: MicroPython](https://img.shields.io/badge/Language-MicroPython-orange.svg)](#)
 
 ## Project overview
@@ -65,6 +65,7 @@ This project is released under the **MIT License**. See `LICENSE.txt`.
 ## Support & references
 - CallMeBot official site: https://www.callmebot.com/ (instructions and API docs). :contentReference[oaicite:4]{index=4}
 - Example blog/tutorial (ESP32 + CallMeBot): Random Nerd Tutorials — double-check the CallMeBot number they recommend, as it sometimes changes. :contentReference[oaicite:5]{index=5}
+
 
 
 
