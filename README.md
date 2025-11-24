@@ -53,7 +53,7 @@ Example: replace `<phone>` with `91XXXXXXXXXX` (include country code without `+`
 ---
 
 ## Wiring diagram
-Check the wiring diagram for construction of the project.
+Check the wiring diagram for construction of the project on breadboard. File name: banner.png.
 
 ---
 
@@ -65,6 +65,7 @@ This project is released under the **MIT License**. See `LICENSE.txt`.
 ## Support & references
 - CallMeBot official site: https://www.callmebot.com/ (instructions and API docs). :contentReference[oaicite:4]{index=4}
 - Example blog/tutorial (ESP32 + CallMeBot): Random Nerd Tutorials — double-check the CallMeBot number they recommend, as it sometimes changes. :contentReference[oaicite:5]{index=5}
+
 
 
 
